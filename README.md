@@ -1,8 +1,8 @@
 # SCPSL
 <html>
-<marquee style="color: aqua; font-family:楷体; font-size: 30pt; border: 30 inset red" bgcolor>老八撤硕服务器，管理和谐，插件好玩   时不时送福利！欢迎游玩
+ <marquee style="color: aqua; font-family:楷体; font-size: 30pt; border: 30 inset red" bgcolor>老八撤硕服务器，管理和谐，插件好玩   时不时送福利！欢迎游玩
 
-<marquee style="color: pink; font-family:楷体; font-size: 30pt; border: 30 inset red" bgcolor>QQ群：456082820
+<marquee style="color: pink; font-family:楷体; font-size: 30pt; border: 30 inset red" bgcolor>QQ群：456082820>
 
 <hand>欢迎来到本服务器 本服务器插件巨好玩
 请验证进入服务器
