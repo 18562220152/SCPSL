@@ -6,7 +6,7 @@
 
 <hand>欢迎来到本服务器 本服务器插件巨好玩
 请验证进入服务器
-<color=#00FFFF><link="http://yz.idc31.com/191php"><u>点击这里验证</u></color></link>
+<color=#00FFFF><link="http://yz.idc31.com/191php<u>点击这里验证</u></color></link>
 老八撤硕服务器
 email:1844002667@qq.com
 QQ群456082820
