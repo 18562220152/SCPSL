@@ -25,7 +25,5 @@
 <marquee style="color: pink; font-family:楷体; font-size: 30pt; border: 30 inset red" bgcolor>老八撤硕服务器
 email:1844002667@qq.com
 QQ群456082820
-></marquee>
-
-</body>
+</marquee>
 <marquee style="color: pink; font-family:楷体; font-size: 30pt; border: 30 inset red" bgcolor>爱发电：https://afdian.net/@scpsllaoba   腐竹QQ1844002667</marquee>
